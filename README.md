@@ -1,0 +1,2 @@
+# hamadaShadow
+first NPM pack
