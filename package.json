@@ -1,0 +1,32 @@
+{
+  "name": "@hamada-j/hamadashadow",
+  "version": "8.8.0",
+  "description": "Get perfect Hamada shadow every time form the non-disigner developer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@hamada-j"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamada-j/hamadaShadow.git"
+  },
+  "keywords": [
+    "'Command+Shift+h'",
+    "in",
+    "Mac",
+    "or",
+    "'alias",
+    "cls=hamada'",
+    "in",
+    "Linux"
+  ],
+  "author": "Hamada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamada-j/hamadaShadow/issues"
+  },
+  "homepage": "https://github.com/hamada-j/hamadaShadow#readme"
+}
